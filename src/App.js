@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import data from './data';
-import message from './message'
 import List from './List';
 function App() {
 
